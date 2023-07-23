@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.0425mm"
+   height="98.838493mm"
+   viewBox="0 0 100.0425 98.838493"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="ball.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#313131"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ball"
+     transform="translate(15.875812,-14.937628)">
+    <path
+       sodipodi:type="star"
+       style="fill:#666666;stroke-width:0.264583"
+       id="path956"
+       inkscape:flatsided="true"
+       sodipodi:sides="9"
+       sodipodi:cx="33.985073"
+       sodipodi:cy="62.983208"
+       sodipodi:r1="50.801304"
+       sodipodi:r2="47.73761"
+       sodipodi:arg1="1.5526165"
+       sodipodi:arg2="1.9016824"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 34.908581,113.77612 2.0434687,102.48645 -15.875812,72.712782 -10.46463,38.386535 15.745061,15.569344 50.489457,14.937628 77.511269,36.786972 84.166689,70.893826 67.341574,101.29921 Z"
+       inkscape:transform-center-x="-0.16036487"
+       inkscape:transform-center-y="1.3736636"
+       inkscape:export-filename="planet6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

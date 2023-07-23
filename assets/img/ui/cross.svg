@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="72.174774mm"
+   height="71.605621mm"
+   viewBox="0 0 72.174774 71.605621"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="ball.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#313131"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ball"
+     transform="translate(-87.06851,-61.484884)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       id="path4413"
+       inkscape:flatsided="false"
+       sodipodi:sides="4"
+       sodipodi:cx="123.02866"
+       sodipodi:cy="97.691551"
+       sodipodi:r1="14.978579"
+       sodipodi:r2="45.912212"
+       sodipodi:arg1="0.17110246"
+       sodipodi:arg2="0.8505813"
+       inkscape:rounded="0.34069237"
+       inkscape:randomized="0.01"
+       d="M 138.11443,99.815664 C 137.16727,111.9016 163.20682,124.86949 153.18964,131.752 142.38733,139.17394 133.49008,113.34057 120.41382,112.67339 108.28796,112.05471 95.316552,137.51417 88.396857,127.52 80.934805,116.7425 107.30793,107.88505 108.13926,94.829607 108.91017,82.723054 82.675054,69.996631 92.509681,62.863663 c 10.605449,-7.692039 20.199089,19.268209 33.265569,20.16991 12.11679,0.836164 24.99948,-25.677448 32.0816,-15.806628 7.63721,10.64448 -18.72102,19.5555 -19.74242,32.588719 z"
+       inkscape:transform-center-x="1.8727781e-06"
+       inkscape:transform-center-y="-1.4870892e-06"
+       inkscape:export-filename="cross.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
