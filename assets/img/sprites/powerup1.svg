@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102.59384mm"
+   height="95.261162mm"
+   viewBox="0 0 102.59384 95.261162"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="ball.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#313131"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ball"
+     transform="translate(-78.802748,-30.990558)">
+    <path
+       sodipodi:type="star"
+       style="fill:#008000;fill-opacity:1;stroke-width:0.264583"
+       id="path4522"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="130.08125"
+       sodipodi:cy="78.362206"
+       sodipodi:r1="51.283192"
+       sodipodi:r2="3.8447239"
+       sodipodi:arg1="1.1003151"
+       sodipodi:arg2="1.6239139"
+       inkscape:rounded="0.60105838"
+       inkscape:randomized="0.01"
+       d="m 152.87638,124.21271 c -25.68909,13.05888 5.84401,-40.829562 -22.9178,-42.152399 -28.76182,-1.322837 -4.01977,55.574519 -28.2431,39.649849 -24.223328,-15.92467 37.48421,-15.97288 24.5051,-41.814834 C 113.24147,54.053368 77.680734,104.06705 78.829964,75.237561 79.979195,46.408075 111.431,100.55803 127.07023,76.170853 142.70946,51.78368 81.040678,46.373716 106.82592,33.137741 c 25.78524,-13.235975 -5.02362,38.96756 23.79043,40.943076 28.81405,1.975516 3.3748,-53.859773 27.77799,-38.271435 24.40319,15.588338 -38.22479,15.645808 -24.96685,41.260938 13.25793,25.61513 49.6793,-25.246302 47.9066,3.545139 -1.7727,28.791441 -32.53745,-24.49188 -48.29554,-0.26747 -15.7581,24.224411 45.52692,30.805831 19.83783,43.864721 z"
+       inkscape:transform-center-x="0.062374499"
+       inkscape:transform-center-y="0.015341163"
+       inkscape:export-filename="powerup1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="182.95428mm"
+   height="174.12302mm"
+   viewBox="0 0 182.95428 174.12302"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="ball.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#313131"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="ball"
+     transform="translate(-48.758071,-5.290651)">
+    <path
+       sodipodi:type="star"
+       style="fill:#008000;stroke-width:0.264583"
+       id="path1256"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="44.513062"
+       sodipodi:cy="46.914177"
+       sodipodi:r1="51.740643"
+       sodipodi:r2="93.087852"
+       sodipodi:arg1="1.049124"
+       sodipodi:arg2="1.0629734"
+       inkscape:rounded="0.63"
+       inkscape:randomized="0.1"
+       d="M 67.049629,84.091709 C 56.571821,107.19082 113.17659,127.12426 86.259139,128.96881 34.147889,132.53979 75.749062,102.43869 25.497975,95.040032 -0.45862974,91.218342 1.9731514,145.37381 -11.613303,123.01936 -37.916209,79.741927 19.159916,92.968248 -0.8046238,47.946151 -11.117071,24.690519 -53.83182,68.373958 -39.898494,46.744431 -12.924057,4.8704162 -4.9857479,47.059871 21.473944,2.3147449 35.141386,-20.797821 -32.314005,-36.747787 -7.4659724,-36.368575 40.638958,-35.634434 11.332916,8.535761 62.021939,1.3908089 88.204754,-2.2998317 70.597055,-62.537088 83.35463,-39.712109 108.05285,4.4762575 68.02813,2.9895965 87.688409,49.16765 97.843693,73.020378 152.89337,34.749694 137.63497,54.579999 108.09524,92.97078 87.334303,39.37264 67.049629,84.091709 Z"
+       inkscape:transform-center-x="0.73449376"
+       inkscape:transform-center-y="1.1277688"
+       inkscape:export-filename="planet9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(91.422575,50.151812)" />
+  </g>
+</svg>
