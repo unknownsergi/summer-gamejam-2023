@@ -23,6 +23,14 @@ Estas son las características del proyecto:
     - Librerías: SDL
     - Arte Visual: Vectorial 2D
 
+## Project folder properties configuration
+
+Configuration: All Configuration
+
+C/C++:
+
+    Additional Include Directories: 
+
 ## Ideas de Producción
 
 <p>
