@@ -20,16 +20,8 @@ Estas son las características del proyecto:
 
     - Temática: Ciclos
     - Lenguaje: C++
-    - Librerías: SDL
+    - Librerías: SFML
     - Arte Visual: Vectorial 2D
-
-## Project folder properties configuration
-
-Configuration: All Configuration
-
-C/C++:
-
-    Additional Include Directories: 
 
 ## Ideas de Producción
 
@@ -49,7 +41,7 @@ Los niveles constan de diversos "planetas" los cuales cuentas con su gravedad pr
 ## Etápas del Proyecto
 
  - [X] Inicializar proyecto
- - [X] Instalar dependencias y librerias
+ - [ ] Instalar dependencias y librerias
  - [X] Recopilar ideas
  - [X] Realizar primeros diseños
  - [ ] Empezar proyecto de prueba
