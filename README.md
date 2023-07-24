@@ -60,4 +60,5 @@ Somos unos estudiantes de programación españoles con muchas ganas de seguir ap
 
     - Sergi Camps Gili
     - Adrián Borio Muñoz
+    - Antonio Cervantes Jurado
     - Jose Gómez Morata
