@@ -39,7 +39,7 @@ Los niveles constan de diversos "planetas" los cuales cuentas con su gravedad pr
 ## Etápas del Proyecto
 
  - [X] Inicializar proyecto
- - [ ] Instalar dependencias y librerias
+ - [x] Instalar dependencias y librerias
  - [X] Recopilar ideas
  - [X] Realizar primeros diseños
  - [ ] Empezar proyecto de prueba
