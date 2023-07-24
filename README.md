@@ -1,15 +1,13 @@
 # MY FIRST GAME JAM 2023
 
-<p>
-Este es un videojuego para "my_first_game_jam_2023" en itch.io.
-</p>
+Este es un videojuego para [my_first_gamejam_2023](https://itch.io/jam/my-first-game-jam-summer-2023) en itch.io.
 
 <p>
 La duración del proyecto es la siguiente:
 </p>
 
-    - Fecha de Inicio: 22/07/2023 [9:00AM UTC-1]
-    - Fecha Límite de Entrega: 06/08/2023 [8:59AM UTC-1]
+    - Fecha de Inicio: 22/07/2023 [9:00AM UTC+2]
+    - Fecha Límite de Entrega: 06/08/2023 [8:59AM UTC+2]
 
 
 ## Características Técnicas del Proyecto
@@ -20,16 +18,8 @@ Estas son las características del proyecto:
 
     - Temática: Ciclos
     - Lenguaje: C++
-    - Librerías: SDL
+    - Librerías: SFML
     - Arte Visual: Vectorial 2D
-
-## Project folder properties configuration
-
-Configuration: All Configuration
-
-C/C++:
-
-    Additional Include Directories: 
 
 ## Ideas de Producción
 
@@ -49,7 +39,7 @@ Los niveles constan de diversos "planetas" los cuales cuentas con su gravedad pr
 ## Etápas del Proyecto
 
  - [X] Inicializar proyecto
- - [X] Instalar dependencias y librerias
+ - [ ] Instalar dependencias y librerias
  - [X] Recopilar ideas
  - [X] Realizar primeros diseños
  - [ ] Empezar proyecto de prueba
