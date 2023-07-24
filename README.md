@@ -1,7 +1,7 @@
 # MY FIRST GAME JAM 2023
 
 <p>
-Este es un videojuego para "[my_first_game_jam_2023](https://itch.io/jam/my-first-game-jam-summer-2023)" en itch.io.
+Este es un videojuego para [my_first_game_jam_2023](https://itch.io/jam/my-first-game-jam-summer-2023) en itch.io.
 </p>
 
 <p>
