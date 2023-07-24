@@ -1,13 +1,13 @@
 # MY FIRST GAME JAM 2023
 
-Este es un videojuego para [myfirstgamejam2023](https://itch.io/jam/my-first-game-jam-summer-2023) en itch.io.
+Este es un videojuego para [my_first_gamejam_2023](https://itch.io/jam/my-first-game-jam-summer-2023) en itch.io.
 
 <p>
 La duración del proyecto es la siguiente:
 </p>
 
-    - Fecha de Inicio: 22/07/2023 [9:00AM UTC-1]
-    - Fecha Límite de Entrega: 06/08/2023 [8:59AM UTC-1]
+    - Fecha de Inicio: 22/07/2023 [9:00AM UTC+2]
+    - Fecha Límite de Entrega: 06/08/2023 [8:59AM UTC+2]
 
 
 ## Características Técnicas del Proyecto
