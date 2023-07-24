@@ -1,26 +1,21 @@
-#include <SDL.h>
-#include <SDL_image.h>
-#include <iostream>
-#include "config.h"
-
-
-int main(int argc, char* argv[])
+#include "SFML/Graphics.hpp"
+int main()
 {
-	// Initialize SDL
-	SDL_Init(SDL_INIT_EVERYTHING);
-	// Create a window
-	SDL_Window * window = SDL_CreateWindow(Config::Window::TITLE, SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, Config::Window::SCREEN_WIDTH, Config::Window::SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
-	// Create a renderer
-	SDL_Renderer * renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+    sf::RenderWindow window(sf::VideoMode(800, 600), "SFML works!");
 
-	// Render a green window
-	SDL_SetRenderDrawColor(renderer, 0, Config::Window::BG_COLOR[0], Config::Window::BG_COLOR[1], Config::Window::BG_COLOR[2]);
-	// Clear the window to green
-	SDL_RenderClear(renderer);
-	// Show the window
-	SDL_RenderPresent(renderer);
-	// Wait 5 seconds
-	SDL_Delay(5000);
-
+	while (window.isOpen())
+	{
+		sf::Event event;
+		while (window.pollEvent(event))
+		{
+			// Close window: exit
+			if (event.type == sf::Event::Closed)
+				window.close();
+		}
+		
+		window.clear(sf::Color::Black);
+		//draw here
+		window.display();
+	}
     return 0;
 }
