@@ -138,7 +138,7 @@
     <ClCompile Include="config.h" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="player.h" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
