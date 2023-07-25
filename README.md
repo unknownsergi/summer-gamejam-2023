@@ -34,9 +34,9 @@ Los niveles constan de diversos "planetas" los cuales cuentas con su gravedad pr
 ### Lista de Power Ups:
 
 
-    - Esfera Antigravitacional: Esta esfera genera el efecto contrario en la fuerza   de los planetas que rodean el orbe. Si un paneta atrae a una velocidad de 10m/s, por ejemplo, hará lo contrario, es decir, alejar al orbe a 10m/s.
+    - Esfera Anti-gravitacional: Esta esfera genera el efecto contrario en la fuerza de los planetas que rodean el orbe. Si un paneta atrae a una velocidad de 10m/s, por ejemplo, hará lo contrario, es decir, alejar al orbe a 10m/s.
 
-## Etápas del Proyecto
+## Etapas del Proyecto
 
  - [X] Inicializar proyecto
  - [x] Instalar dependencias y librerias
